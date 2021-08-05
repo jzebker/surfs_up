@@ -87,7 +87,7 @@ Results:
 </td></tr> </table>
 
 <p align="center">
-  ![oahutemps_jundec](https://user-images.githubusercontent.com/84994321/128427855-f87d890f-7c1a-4a75-80f5-22eb20ae76b6.png)
+  <img src=https://user-images.githubusercontent.com/84994321/128427855-f87d890f-7c1a-4a75-80f5-22eb20ae76b6.png>
 </p>
 
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
