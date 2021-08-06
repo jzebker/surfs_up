@@ -126,3 +126,4 @@ My two cents:
   <img width="399" alt="temp_by_loc" src="https://user-images.githubusercontent.com/84994321/128576431-923500b7-6a32-4a4f-9b50-c801bf423487.png">
 </p>
 
+• Oahu is about 44 mi x 30 mi, I do not see any obvious trends
