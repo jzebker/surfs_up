@@ -116,4 +116,13 @@ Additional queries:
 
 My two cents:
 
-• According to common travel lore, the northern side of Oahu gets more rain so we COULD try to see this in the data.  We have latitude and longitude for the stations spread around the island but there are only nine locations
+• According to common travel lore, the northern side of Oahu gets more rain so we COULD try to see this in the data.  We have latitude and longitude for the stations spread around the island but there are only nine locations.  Here is a look at average rainfall and average temperature by location:
+
+<p align="center">
+  <img width="400" alt="rainfall_by_loc" src="https://user-images.githubusercontent.com/84994321/128576402-e3804627-98d4-4eba-97c8-8ebee4c9aa49.png">
+</p>
+
+<p align="center">
+  <img width="399" alt="temp_by_loc" src="https://user-images.githubusercontent.com/84994321/128576431-923500b7-6a32-4a4f-9b50-c801bf423487.png">
+</p>
+
