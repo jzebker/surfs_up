@@ -90,7 +90,8 @@ W. Avy wants temperature data for the months of June and December in Oahu to det
   <img width="500" src=https://user-images.githubusercontent.com/84994321/128430664-12dd9a24-8829-4ab4-8394-b46e51bb3e57.png>
 </p>
 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
+• Per the data, it is on average 3.9 °F colder in Dec than in June
+
 
 ## Summary
 
