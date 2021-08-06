@@ -95,11 +95,16 @@ There is a bulleted list that addresses the three key differences in weather bet
 ## Summary
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+
 Additional queries:
+
+• Looking at the data table, we have measurements for precipitation as well as temperature.  We can compare precipitation in June to December in Oahu; without further background on the data, my guess is these are rainfall totals per day.  I do not know if measurements are in cm or in but because we are looking for a trend, the graph may provide additional insight.
 
 <p align="center">
   <img width="500" src=https://user-images.githubusercontent.com/84994321/128430940-6f8cb70c-ba25-422b-a8f2-9240da27dd18.png>
 </p>
+
+• The station table has info about location as well as elevation of the stations.  I looked at the average temperature per station by elevation below.  I do not know if the elevation is in feet or meters but, again, the trend is what we are after.  Unfortunately there just aren't enough stations to reliably create any kind of trend.
 
 <p align="center">
   <img width="500" src=https://user-images.githubusercontent.com/84994321/128430994-ce730de8-d539-4fb5-b5e6-46963cf60248.png>
