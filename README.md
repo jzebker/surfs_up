@@ -92,6 +92,10 @@ W. Avy wants temperature data for the months of June and December in Oahu to det
 
 • Per the data, it is on average 3.9 °F colder in Dec than in June
 
+• The range of temperatures for Dec is slightly more spread out than those in June
+
+
+
 
 ## Summary
 
