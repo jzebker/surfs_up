@@ -2,7 +2,7 @@
 ## Overview
 W. Avy wants temperature data for the months of June and December in Oahu to determine if his surf and ice cream shop business is sustainable year-round.
 
-## Results
+## Results ([notebook](https://github.com/jzebker/surfs_up/blob/main/SurfsUp_Challenge.ipynb))
 
 <table align="center">
 <tr><th>June Temperatures</th><th>December Temperatures</th></tr>
