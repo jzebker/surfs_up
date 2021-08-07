@@ -109,7 +109,6 @@ W. Avy wants temperature data for the months of June and December in Oahu to det
 Overall, it is slightly colder on Oahu in December than in June.  We found it to be on the order of a few degrees so it is not wildly different.  There do not seem to be "noticeable" seasons in Hawaii.  Barring hurricane season, the temperature specifically should not affect his ice cream and surfing business.
 
 Additional queries (located in the "Stuff for readme" section of the provided .ipynb file):
-<sup>Oahu is about 44 mi x 30 mi</sup>
 
 • Looking at the data table, we have measurements for precipitation as well as temperature.  We can compare precipitation in June to December in Oahu; without further background on the data, my guess is these are rainfall totals per day.  I do not know if measurements are in cm or in but because we are looking for a trend, the graph may provide additional insight.
 
