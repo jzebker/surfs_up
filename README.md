@@ -96,6 +96,8 @@ W. Avy wants temperature data for the months of June and December in Oahu to det
 
 • The minimum temperatures recorded were in Dec
 
+• There are fewer data records for Dec (1517) than for June (1700), it could be that some stations are on different schedules or are not always running
+
 ## Summary
 
 Overall, it is slightly colder on Oahu in December than in June.  We found it to be on the order of a few degrees so it is not wildly different.  There do not seem to be "noticeable" seasons in Hawaii.  Barring hurricane season, the temperature specifically should not affect his ice cream and surfing business.
