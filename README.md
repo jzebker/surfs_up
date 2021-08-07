@@ -109,6 +109,7 @@ W. Avy wants temperature data for the months of June and December in Oahu to det
 Overall, it is slightly colder on Oahu in December than in June.  We found it to be on the order of a few degrees so it is not wildly different.  There do not seem to be "noticeable" seasons in Hawaii.  Barring hurricane season, the temperature specifically should not affect his ice cream and surfing business.
 
 Additional queries (located in the "Stuff for readme" section of the provided .ipynb file):
+<sup>Oahu is about 44 mi x 30 mi</sup>
 
 • Looking at the data table, we have measurements for precipitation as well as temperature.  We can compare precipitation in June to December in Oahu; without further background on the data, my guess is these are rainfall totals per day.  I do not know if measurements are in cm or in but because we are looking for a trend, the graph may provide additional insight.
 
@@ -116,7 +117,7 @@ Additional queries (located in the "Stuff for readme" section of the provided .i
   <img width="500" src=https://user-images.githubusercontent.com/84994321/128430940-6f8cb70c-ba25-422b-a8f2-9240da27dd18.png>
 </p>
 
-• The station table has info about location as well as elevation of the stations.  I looked at the average temperature per station by elevation below.  I do not know if the elevation is in feet or meters but, again, the trend is what we are after.  Unfortunately there just aren't enough stations to reliably create any kind of trend.
+• The station table has info about location as well as elevation of the stations.  I looked at the average temperature per station by elevation below.  I do not know if the elevation is in feet or meters but, again, the trend is what we are after.  It looks as though the two stations at higher elevation have, on average, recorded cooler temperatures than the others.  Unfortunately there just aren't enough stations to reliably create any kind of trend.
 
 <p align="center">
   <img width="500" src=https://user-images.githubusercontent.com/84994321/128430994-ce730de8-d539-4fb5-b5e6-46963cf60248.png>
@@ -131,5 +132,3 @@ Additional queries (located in the "Stuff for readme" section of the provided .i
 <p align="center">
   <img width="399" alt="temp_by_loc" src="https://user-images.githubusercontent.com/84994321/128576431-923500b7-6a32-4a4f-9b50-c801bf423487.png">
 </p>
-
-• Oahu is about 44 mi x 30 mi, I do not see any obvious trends
