@@ -4,6 +4,12 @@ W. Avy wants temperature data for the months of June and December in Oahu to det
 
 ## Results ([notebook](https://github.com/jzebker/surfs_up/blob/main/SurfsUp_Challenge.ipynb))
 
+**Deliverable 1**: D1, Steps #1-5 in notebook
+
+**Deliverable 2**: D2, Steps #6-9 in notebook
+
+**Additional queries**: "Stuff for readme" section of notebok
+
 <table align="center">
 <tr><th>June Temperatures</th><th>December Temperatures</th></tr>
 <tr><td>
@@ -92,9 +98,11 @@ W. Avy wants temperature data for the months of June and December in Oahu to det
 
 • Per the data, it is on average 3.9 °F colder in Dec than in June
 
-• The range of temperatures is slightly more spread out in December than in June
+• The range of temperatures is slightly more spread out in Dec than in June
 
-• The minimum temperature is lower for Dec than in June relative to other metrics
+• The minimum temperatures recorded were in Dec
+
+• There are fewer data records for Dec (1517) than for June (1700), it could be that some stations are on different schedules or are not always running
 
 ## Summary
 
@@ -108,13 +116,13 @@ Additional queries (located in the "Stuff for readme" section of the provided .i
   <img width="500" src=https://user-images.githubusercontent.com/84994321/128430940-6f8cb70c-ba25-422b-a8f2-9240da27dd18.png>
 </p>
 
-• The station table has info about location as well as elevation of the stations.  I looked at the average temperature per station by elevation below.  I do not know if the elevation is in feet or meters but, again, the trend is what we are after.  Unfortunately there just aren't enough stations to reliably create any kind of trend.
+• The station table has info about location and elevation of the stations.  I looked at the average temperature per station by elevation below.  I do not know if the elevation is in feet or meters but, again, the trend is what we are after.  It looks as though the two stations at higher elevation have, on average, recorded cooler temperatures than the others.  Unfortunately there just aren't enough stations to reliably create any kind of trend.
 
 <p align="center">
   <img width="500" src=https://user-images.githubusercontent.com/84994321/128430994-ce730de8-d539-4fb5-b5e6-46963cf60248.png>
 </p>
 
-• According to common travel lore, the northern side of Oahu gets more rain so we COULD try to see this in the data.  We have latitude and longitude for the stations spread around the island but there are only nine locations.  Here is a look at average rainfall and average temperature by location:
+• According to common travel lore, the northern side of Oahu gets more rain so we can try to see this in the data.  We have latitude and longitude for the stations spread around the island but there are only nine locations.  Here is a look at average rainfall and average temperature by location:
 
 <p align="center">
   <img width="400" alt="rainfall_by_loc" src="https://user-images.githubusercontent.com/84994321/128576402-e3804627-98d4-4eba-97c8-8ebee4c9aa49.png">
@@ -123,5 +131,3 @@ Additional queries (located in the "Stuff for readme" section of the provided .i
 <p align="center">
   <img width="399" alt="temp_by_loc" src="https://user-images.githubusercontent.com/84994321/128576431-923500b7-6a32-4a4f-9b50-c801bf423487.png">
 </p>
-
-• Oahu is about 44 mi x 30 mi, I do not see any obvious trends
