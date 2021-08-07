@@ -4,6 +4,12 @@ W. Avy wants temperature data for the months of June and December in Oahu to det
 
 ## Results ([notebook](https://github.com/jzebker/surfs_up/blob/main/SurfsUp_Challenge.ipynb))
 
+**Deliverable 1**: D1, Steps #1-5 in notebook
+
+**Deliverable 2**: D2, Steps #6-9 in notebook
+
+**Additional queries**: "Stuff for readme" section of notebok
+
 <table align="center">
 <tr><th>June Temperatures</th><th>December Temperatures</th></tr>
 <tr><td>
