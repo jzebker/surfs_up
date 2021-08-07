@@ -94,7 +94,7 @@ W. Avy wants temperature data for the months of June and December in Oahu to det
 
 • The range of temperatures is slightly more spread out in Dec than in June
 
-• The minimum temperature is lower for Dec than in June relative to other metrics
+• The minimum temperatures recorded were in Dec
 
 ## Summary
 
